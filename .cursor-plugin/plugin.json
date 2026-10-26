@@ -1,0 +1,12 @@
+{
+  "name": "pugi",
+  "version": "1.0.0",
+  "description": "Build and publish websites from a brief, check public websites and GitHub repositories for security issues, generate logos, and search Pugi starter sites.",
+  "author": {
+    "name": "Pugi",
+    "email": "info@pugi.io"
+  },
+  "homepage": "https://pugi.io",
+  "logo": "assets/pugi-light-512.png",
+  "license": "MIT"
+}
