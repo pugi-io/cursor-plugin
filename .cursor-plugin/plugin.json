@@ -1,12 +1,22 @@
 {
   "name": "pugi",
-  "version": "1.0.0",
-  "description": "Build and publish websites from a brief, check public websites and GitHub repositories for security issues, generate logos, and search Pugi starter sites.",
+  "version": "1.1.0",
+  "description": "An AI product team that builds, checks and publishes websites from a brief: build and change a site, put it live, draw whole logos with a brand kit, and check a public website or GitHub repository for security issues.",
   "author": {
-    "name": "Pugi",
+    "name": "Pugi Inc.",
     "email": "support@pugi.io"
   },
   "homepage": "https://pugi.io",
   "logo": "assets/pugi-light-512.png",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/pugi-io/cursor-plugin",
+  "keywords": [
+    "website",
+    "website-builder",
+    "publish",
+    "logo",
+    "brand-kit",
+    "security",
+    "mcp"
+  ]
 }
